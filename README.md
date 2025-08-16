@@ -12,13 +12,9 @@ Site para fins de apredizado e exposição
   ---
 ## Arquivos e suas funções
 ├── index.html      # Página principal e apresentação
-
 ├── Contato.html    # Página de conatato com email de contato da modelo
-
 ├── Avisos.html     # Página de avisos sobre o projeto
-
 ├── Trabalhos.html  # Página de trabalhos da modelo
-
 ├──  styles.css     # Folha de formatação para o design da página
 
 ---
